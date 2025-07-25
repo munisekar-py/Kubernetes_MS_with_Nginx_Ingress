@@ -57,3 +57,11 @@ DevOps Enthusiast | Cloud & Kubernetes Explorer
 -  Set `eval $(minikube docker-env)` before docker build
   
 
+##
+
+<img width="1356" height="100" alt="image" src="https://github.com/user-attachments/assets/15f1e258-9865-4b23-8cc6-68c1cf1aef79" />
+
+
+#
+<img width="648" height="137" alt="image" src="https://github.com/user-attachments/assets/afcb889e-067b-4b90-a9de-85b018f4178a" />
+
